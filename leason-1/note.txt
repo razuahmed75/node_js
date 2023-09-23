@@ -1,0 +1,2 @@
+// to accessed inside leason-1 directory: cd leason-1
+// to back previous directory: cd ..
